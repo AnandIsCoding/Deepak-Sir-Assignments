@@ -1,1 +1,2 @@
-console.log("Starter Repo Running 🚀");
+console.log("Scaffold Project Running 🚀");
+
