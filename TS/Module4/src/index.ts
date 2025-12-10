@@ -1,4 +1,4 @@
-// --- Validators ---
+// Validators
 type ValidationResult = { valid: boolean; message?: string };
 type ValidationFn = (value: any) => ValidationResult;
 
