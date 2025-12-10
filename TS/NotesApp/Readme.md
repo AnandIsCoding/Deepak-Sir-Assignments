@@ -1,1 +1,5 @@
-<div style="display: flex; gap: 20px; flex-wrap: wrap;"> <div> <h3>🏠 Home Page</h3> <img src="/client/Screenshots/Home.png" width="420" /> </div> <div> <h3>📝 Notes Page</h3> <img src="/client/Screenshots/Notes.png" width="420" /> </div> <div> <h3>🔐 Auth Page</h3> <img src="/client/Screenshots/Auth.png" width="420" /> </div> </div>
+## 📸 Screenshots
+
+| 🏠 Home | 📝 Notes | 🔐 Auth |
+|---------|---------|---------|
+| ![Home](client/Screenshots/Home.png) | ![Notes](client/Screenshots/Notes.png) | ![Auth](client/Screenshots/Auth.png) |
