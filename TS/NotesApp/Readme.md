@@ -1,0 +1,1 @@
+<div style="display: flex; gap: 20px; flex-wrap: wrap;"> <div> <h3>🏠 Home Page</h3> <img src="/client/public/Home.png" width="420" /> </div> <div> <h3>📝 Notes Page</h3> <img src="/client/public/Notes.png" width="420" /> </div> <div> <h3>🔐 Auth Page</h3> <img src="/client/public/Auth.png" width="420" /> </div> </div>

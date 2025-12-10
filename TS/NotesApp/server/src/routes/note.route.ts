@@ -22,6 +22,6 @@ notesRouter.get("/getnotes", getNotesController);
 notesRouter.put("/update/:id", updateNoteController);
 
 // Delete a note
-notesRouter.delete("delate/:id", deleteNoteController);
+notesRouter.delete("/delete/:id", deleteNoteController);
 
 export default notesRouter ;
